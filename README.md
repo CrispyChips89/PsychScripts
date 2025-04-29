@@ -8,4 +8,5 @@ Scripts that i've made for fun, *or because i was bored*.
 - **`ComboPowers.lua`:**
   You gain some benefits when you doing a **30 ~ 70** combo.
 
--# Credit me.
+**Give me credits.**
+- **Discord:** `crispy.chipss`.
