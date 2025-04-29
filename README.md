@@ -1,6 +1,6 @@
 
 # Psych Scripts
-- Scripts that i've made for fun, *or because i was bored*.
+Scripts that i've made for fun, *or because i was bored*.
 
 - **`SmoothHealth.lua`:**
   Smooth health bar. *You can change how much you gain/lose of health.*
