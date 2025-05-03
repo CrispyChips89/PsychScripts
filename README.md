@@ -1,16 +1,9 @@
 # Psych Scripts
-Scripts that i've made for fun, *or because i was bored*.
-Credits will be neat, tho.
+Scripts that i've made for fun, *or because i was bored*. **Credits will be neat, tho**.
+<hr>
 
-- **`SmoothHealth.lua`:**
-    - Smooth health bar.
-    - You can change how much you gain/lose of health.
+> - **Lua scripts** are stored in `luascripts/`.
+> - **HScripts** are stored in `hscripts/`.
+<hr>
 
-- **`ComboPowers.lua`:**
-    - You gain some benefits when you doing a **30 ~ 70** combo.
-
-- **`ChipHUD.hx`:**
-    - Simple HUD, maybe not going to finish it.
-
-- **`Troll.hx`:**
-    - It closes your game when you miss and open a random YouTube link, lol.
+**Warning:** These scripts are intended to work in **Psych Engine 0.7.3**, i don't know if they works in older/newer versions.
