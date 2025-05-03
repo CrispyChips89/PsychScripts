@@ -8,5 +8,5 @@ Scripts that i've made for fun, *or because i was bored*.
 - **`ComboPowers.lua`: Not finished**
     - You gain some benefits when you doing a **30 ~ 70** combo.
 
-- **`ChipHUD.hx: Not finished`**
+- **`ChipHUD.hx`: Not finished**
     - Simple HUD, maybe not going to finish it.
