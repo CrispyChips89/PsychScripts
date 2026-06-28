@@ -119,8 +119,10 @@ end
 function choosePower()
     local power = data.powers[3][1];
     for pwr in ipairs(data.powers) do
-        if getRandomBool(data.powers[pwr][2]) then power = data.powers[pwr][1] end
-        break
+        if getRandomBool(data.powers[pwr][2]) then
+            power = data.powers[pwr][1] 
+            break
+        end
     end
     return power
 end
